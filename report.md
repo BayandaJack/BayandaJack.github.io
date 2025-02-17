@@ -1,0 +1,1 @@
+I initialized a git repository in a Lab1 directory using the terminal. Then I created the files and added them to the repository using the git add command, then used git commit with a message for each commit. Then I have also created and managed a new branch. Lastly I deployed the html file
